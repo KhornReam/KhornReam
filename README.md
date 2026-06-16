@@ -48,7 +48,7 @@ Passionate Full Stack Developer who enjoys building modern web applications, cre
 ## 👨‍💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,worlpress,python,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php&theme=dark" />
 </p>
 
 ## 🎨 Frontend Development
