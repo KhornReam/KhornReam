@@ -1,152 +1,163 @@
+# 👋 Hi, I'm Ream
 
+### Full-Stack Developer | Software Engineering Enthusiast
 
-# Hi 👋, I'm Ream
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Frontend+%2B+Backend+Development;Exploring+Cloud+%26+DevOps;Learning+by+Building+Real+Projects" alt="Typing introduction" />
+</p>
 
-### 🚀 Junior Full Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Backend+Enthusiast;Learning+Cloud+%26+DevOps;Building+Modern+Web+Applications" />
-
-<br/>
-
-Passionate Full Stack Developer who enjoys building modern web applications, creating clean user experiences, and developing scalable backend systems.
+<p align="center">
+  I build web applications, develop backend APIs, and explore technologies<br/>
+  that turn ideas into practical software solutions.
+</p>
 
 <p align="center">
   <a href="mailto:reamkhorn12345@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
   <a href="https://github.com/Ream-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-
   <a href="https://linkedin.com/in/khorn-ream-7a98b3399">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Ream-dev&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
-
-</div>
-
----
-
-# 🌟 About Me
-
-- 🎓 2nd Year Student at **Passerelles Numériques Cambodia (PNC)**
-- 💻 Passionate about **Full Stack Web Development**
-- 🌱 Currently learning **Backend Architecture, DevOps & Cloud Computing**
-- 🎨 Interested in **UI/UX Design & Modern Interfaces**
-- ⚡ Love building real-world applications and solving problems
-- 📚 Always learning new technologies and development practices
-- 🌍 Based in **Cambodia**
-- 🤝 Open to teamwork, collaboration, and freelance opportunities
-
----
-
-# 🛠️ Tech Stack
-
-## 👨‍💻 Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php&theme=dark" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ream-dev&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
-## 🎨 Frontend Development
+---
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,react,vue,tailwind&theme=dark" />
+## 👨‍💻 About Me
+
+I'm a Full-Stack Web Development student at **Passerelles Numériques Cambodia (PNC)**, passionate about building practical, maintainable, and user-friendly software.
+
+- 🎓 Studying Full-Stack Web Development at PNC
+- 💼 Gaining professional experience in an IT environment at The Luminix
+- 💻 Developing web applications and RESTful APIs
+- 🗄️ Working with relational databases and application architecture
+- ☁️ Expanding my knowledge of cloud computing and DevOps
+- 🧠 Improving my problem-solving, teamwork, and software engineering skills
+- 🇰🇭 Based in Cambodia
+- 🤝 Interested in collaboration, internships, and real-world projects
+
+> My goal is to grow into a strong software engineer by continuously learning, building, testing, and improving.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,php,python&theme=dark" alt="JavaScript, TypeScript, PHP, Python"/>
 </p>
 
-### Frontend Skills
-- Responsive Web Design
-- Component-Based Architecture
-- API Integration
-- State Management Basics
-- Modern UI Development
+### Frontend Development
 
----
-
-## ⚙️ Backend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,react,vue,bootstrap,tailwind&theme=dark" alt="Frontend technologies"/>
 </p>
 
-### Backend Skills
-- RESTful API Development
-- Authentication & Authorization (JWT)
-- MVC Architecture
-- CRUD Operations
-- Middleware & Error Handling
-- File Upload Systems
+- Responsive web development
+- Component-based development
+- API integration
+- Interactive user interfaces
 
----
+### Backend Development
 
-## 🗄️ Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express&theme=dark" alt="Backend technologies"/>
 </p>
 
-### Database Skills
-- Relational Database Design
-- SQL Queries & Joins
-- PostgreSQL Basics
-- MongoDB Collections & Documents
-- Database Relationships
+- RESTful API development
+- MVC architecture
+- Authentication and authorization
+- CRUD operations and validation
+- Server-side application logic
 
----
+### Databases
 
-## 🧰 Tools & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,vscode,postman&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Database technologies"/>
 </p>
 
-### Tools Experience
-- Git Version Control
-- GitHub Collaboration
-- Docker Fundamentals
-- API Testing with Postman
-- UI Design with Figma
-- VS Code Development Workflow
+- Relational database design
+- SQL queries, joins, and relationships
+- Database integration
+- Document-oriented data with MongoDB
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker,aws&theme=dark" alt="Development tools"/>
+</p>
+
+Git · GitHub · VS Code · Postman · Figma · Docker · AWS
+
+*Currently expanding my knowledge of containerization and cloud technologies.*
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ream-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ream-dev&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ream-dev&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description | Technologies |
 |---|---|---|
-| 🌐 Portfolio Website | Responsive personal portfolio website | React · Tailwind |
-| 🛒 E-Commerce App | Full stack shopping platform | Vue · Laravel · MySQL |
-| 🤖 AI Camera System | Object detection and AI project | Python · OpenCV |
-| 📁 File Notification System | Notification & file management system | Node.js · PostgreSQL |
+| 🌐 Personal Portfolio | Showcases my skills, projects, and development journey. | HTML, CSS, JavaScript |
+| ☕ E-Commerce Platform | Shopping experience with product management and backend integration. | Vue.js, Laravel, MySQL |
+| 📅 Achar Event Booking | Event booking application with booking management and notifications. | Vue.js, Laravel |
+| 🎓 Student Score System | Student score management with database integration and data import features. | Laravel, Vue.js, MySQL |
+| 🌦️ Cambodia Weather App | Weather information for Cambodian provinces using a weather API. | JavaScript, Weather API |
+
+> Replace project titles with links to the corresponding repositories when they are publicly available.
 
 ---
 
-# 📚 Currently Learning
+## 📊 GitHub Analytics
 
-```yaml
-Learning:
-  - Cloud Computing
-  - AWS Fundamentals
-  - Docker & Containers
-  - Backend Scalability
-  - System Design
-  - API Security
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ream-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ream-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ream-dev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- ☁️ Cloud computing and AWS fundamentals
+- 🐳 Docker and containerization
+- 🏗️ Backend architecture and system design
+- 🔐 API security and authentication
+- 🔄 CI/CD and DevOps fundamentals
+- 🏦 Enterprise applications and core banking concepts
+
+---
+
+## 🎯 My Development Goals
+
+- Build reliable and maintainable full-stack applications
+- Strengthen backend engineering and database design
+- Understand deployment, cloud infrastructure, and application security
+- Collaborate with developers and learn professional engineering practices
+- Grow into a senior software engineer and technical leader
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in learning, sharing ideas, and building useful software with others.
+
+<p align="center">
+  <a href="mailto:reamkhorn12345@gmail.com">Email</a> •
+  <a href="https://github.com/Ream-dev">GitHub</a> •
+  <a href="https://linkedin.com/in/khorn-ream-7a98b3399">LinkedIn</a>
+</p>
+
+<p align="center">
+  <i>"Build consistently. Learn continuously. Improve every day."</i>
+</p>
