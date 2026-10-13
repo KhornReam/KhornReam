@@ -1,34 +1,26 @@
  <div align="center">
 
-  <img src="Ream.png" alt="Ream's profile photo" width="125" />
+  <img src="Ream.png" alt="Ream's profile photo" width="150" style="border-radius: 50%;" />
 
-  <h1>Hey there, I'm Ream 👋</h1>
+  <h1>Hi, I'm Ream 👋</h1>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Useful+Web+Applications;Laravel+%7C+React+%7C+Vue.js;Always+Learning%2C+Always+Building" alt="Animated developer introduction" />
-  </a>
+  <h3>🚀 Full-Stack Developer | Software Engineering Enthusiast</h3>
 
-  <p>
-    <a href="#about-me">About</a> •
-    <a href="#tech-stack">Tech Stack</a> •
-    <a href="#featured-projects">Projects</a> •
-    <a href="#github-activity">GitHub Activity</a> •
-    <a href="#connect-with-me">Contact</a>
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Laravel+%7C+React+%7C+Vue.js;Learning+Cloud+%26+Software+Engineering;Turning+Ideas+Into+Real+Solutions" alt="Animated typing introduction" />
 
   <p>
     <a href="https://github.com/Ream-dev">
-      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="https://linkedin.com/in/khorn-ream-7a98b3399">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:reamkhorn12345@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=Ream-dev&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ream-dev&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -36,32 +28,51 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Full-Stack Web Development student at **Passerelles Numériques Cambodia (PNC)**
-- 💼 Gaining professional experience at **The Luminix**
-- 🔭 Building web applications and backend APIs
-- 🌱 Learning Laravel, React, cloud technologies, and software engineering
-- 🧠 Interested in problem-solving, system design, and new technologies
-- 🎯 Aspiring Full-Stack Developer and Software Engineer
+```yaml
+name: Ream Khorn
+role: Full-Stack Developer
+education: Passerelles Numériques Cambodia (PNC)
+experience: The Luminix
+interests:
+  - Web Development
+  - Backend Engineering
+  - API Development
+  - Cloud Computing
+  - Software Engineering
+current_focus:
+  - Laravel
+  - React.js
+  - REST APIs
+  - Database Design
+goal: Become a skilled Software Engineer
+```
 
-## 🧰 Tech Stack
+- 💻 I enjoy building responsive, practical, and user-friendly web applications.
+- 🧠 I love researching, solving technical problems, and learning new technologies.
+- 🤝 I value teamwork, responsibility, communication, and continuous improvement.
+- 🎯 My goal is to become a strong Full-Stack Developer and Software Engineer.
 
-### Frontend
+## 🛠️ Technologies & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,bootstrap,tailwind" alt="Frontend technologies" />
-</p>
+<div align="center">
 
-### Backend & Databases
+### 🎨 Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,mysql,postgres,mongodb" alt="Backend and database technologies" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,bootstrap,tailwind" alt="HTML CSS JavaScript TypeScript React Vue Bootstrap Tailwind" />
 
-### Tools & DevOps
+### ⚙️ Backend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws" alt="Developer tools and cloud technologies" />
-</p>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python" alt="PHP Laravel Node.js Express Python" />
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="MySQL PostgreSQL MongoDB" />
+
+### 🔧 Tools & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws,linux" alt="Git GitHub VS Code Postman Docker AWS Linux" />
+
+</div>
 
 ---
 
@@ -69,77 +80,89 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>☕ E-Commerce Website</h3>
-      <p>A shopping application featuring product browsing, cart management, and a responsive user interface.</p>
-      <p><strong>Stack:</strong> Laravel · Vue.js · MySQL</p>
-      <p><em><a href="https://github.com/Ream-dev">Explore my repositories →</a></em></p>
+      <p>🛒 A modern shopping application with product browsing, cart management, and responsive UI.</p>
+      <p><strong>🧰 Stack:</strong> Laravel · Vue.js · MySQL</p>
+      <p>🔗 <a href="https://github.com/Ream-dev">Explore repositories</a></p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>📅 Achar Event Booking</h3>
-      <p>A collaborative event-booking system with booking workflows and notifications.</p>
-      <p><strong>Stack:</strong> Laravel · Vue.js</p>
-      <p><em><a href="https://github.com/Ream-dev">Explore my repositories →</a></em></p>
+      <p>🎟️ A collaborative event-booking system with booking workflows and notification features.</p>
+      <p><strong>🧰 Stack:</strong> Laravel · Vue.js</p>
+      <p>🔗 <a href="https://github.com/Ream-dev">Explore repositories</a></p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🎓 Student Score System</h3>
-      <p>A student score management application for handling academic data and score workflows.</p>
-      <p><strong>Stack:</strong> Laravel · Vue.js · MySQL</p>
-      <p><em><a href="https://github.com/Ream-dev">Explore my repositories →</a></em></p>
+      <p>📚 A student score management system focused on academic data, score calculations, and data workflows.</p>
+      <p><strong>🧰 Stack:</strong> Laravel · Vue.js · MySQL</p>
+      <p>🔗 <a href="https://github.com/Ream-dev">Explore repositories</a></p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🌦️ Cambodia Weather App</h3>
-      <p>A weather application designed to display weather information for locations across Cambodia.</p>
-      <p><strong>Stack:</strong> JavaScript · Weather API</p>
-      <p><em><a href="https://github.com/Ream-dev">Explore my repositories →</a></em></p>
+      <p>🌍 A weather application designed to display weather information for locations across Cambodia.</p>
+      <p><strong>🧰 Stack:</strong> JavaScript · Weather API</p>
+      <p>🔗 <a href="https://github.com/Ream-dev">Explore repositories</a></p>
     </td>
   </tr>
 </table>
 
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ream-dev&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ream-dev&layout=compact&hide_border=true&theme=tokyonight" alt="Most used programming languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ream-dev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ream-dev&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
-</div>
+> 💡 Replace the example repository links above with the specific repositories for each project.
 
 ---
 
-## 🌱 Currently Growing
+## 📊 GitHub Analytics
 
-- ⚙️ Writing clean, maintainable, and reusable code
-- 🔌 Developing and testing REST APIs
-- 🗄️ Designing database schemas and relationships
-- ☁️ Exploring cloud computing and deployment
-- 🛡️ Practicing secure software development
-- 🤖 Exploring how AI can improve software development
+<div align="center">
 
----
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ream-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 
-## 🤝 Connect With Me
-
-<div align="center" id="connect-with-me">
-
-  **Have an idea, project, or opportunity? Let's connect!**
-
-  <a href="mailto:reamkhorn12345@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/khorn-ream-7a98b3399">LinkedIn</a> •
-  <a href="https://github.com/Ream-dev">GitHub</a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ream-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top programming languages" />
 
   <br />
 
-  *“Keep learning. Keep building. Keep improving.”* ✨
+  <img src="https://streak-stats.demolab.com?user=Ream-dev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ream-dev&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
+</div>
+
+---
+
+## 🌱 What I'm Working On
+
+- <img src="https://skillicons.dev/icons?i=laravel" width="18" alt="Laravel" /> Building maintainable Laravel applications.
+- <img src="https://skillicons.dev/icons?i=react" width="18" alt="React" /> Improving React.js development skills.
+- 🔌 Developing and testing REST APIs.
+- 🗄️ Designing efficient database structures and relationships.
+- ☁️ Learning cloud infrastructure and deployment workflows.
+- 🛡️ Improving secure coding practices.
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+  💬 **Open to learning, collaboration, and software development opportunities.**
+
+  <a href="mailto:reamkhorn12345@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email" />
+  </a>
+
+  <br /><br />
+
+  <a href="https://github.com/Ream-dev">⭐ Explore my GitHub</a> ·
+  <a href="https://linkedin.com/in/khorn-ream-7a98b3399">💼 Connect on LinkedIn</a>
+
+  <br /><br />
+
+  <i>“Keep learning. Keep building. Keep improving.”</i> ✨
 
 </div>
