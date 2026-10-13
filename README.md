@@ -4,8 +4,13 @@
 
 ### Full-Stack Developer · Software Engineering Enthusiast
 
-<p>
-  <img src="Ream.png" alt="Ream profile banner" width="100%" />
+<p align="center">
+  <img
+    src="Ream.png"
+    alt="Ream — Full-Stack Developer"
+    width="220"
+    style="border-radius: 50%;"
+  />
 </p>
 
 <p>
