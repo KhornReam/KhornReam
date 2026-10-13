@@ -3,7 +3,7 @@
 ### Full-Stack Developer | Software Engineering Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Frontend+%2B+Backend+Development;Exploring+Cloud+%26+DevOps;Learning+by+Building+Real+Projects" alt="Typing introduction" />
+  <img src="Ream.png" />
 </p>
 
 <p align="center">
